@@ -1,5 +1,11 @@
 /* Если есть дочерние, то подсвечивается */
 .category-name{
     cursor: pointer;
-    background: darkgray;
+    background: #e3cef1;
+    border-radius: 5px;
+    padding: 3px;
+}
+li{
+    padding: 5px;
+    font-size: 20px;
 }
