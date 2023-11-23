@@ -1,0 +1,5 @@
+/* Если есть дочерние, то подсвечивается */
+.category-name{
+    cursor: pointer;
+    background: darkgray;
+}
